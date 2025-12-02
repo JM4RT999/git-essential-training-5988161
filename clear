@@ -1,0 +1,13 @@
+[1mdiff --git a/Example.md b/Example.md[m
+[1mindex 9f0324a..922b3ed 100644[m
+[1m--- a/Example.md[m
+[1m+++ b/Example.md[m
+[36m@@ -1,3 +1,5 @@[m
+ Hello world[m
+ [m
+[31m-here is another line lol[m
+\ No newline at end of file[m
+[32m+[m[32mhere is another line lol[m
+[32m+[m
+[32m+[m[32manotha one[m
+\ No newline at end of file[m
